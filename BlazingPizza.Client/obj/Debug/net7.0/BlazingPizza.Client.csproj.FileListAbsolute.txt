@@ -1705,3 +1705,4 @@
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Client/obj/Debug/net7.0/refint/BlazingPizza.Client.dll
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Client/obj/Debug/net7.0/BlazingPizza.Client.pdb
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Client/obj/Debug/net7.0/ref/BlazingPizza.Client.dll
+/Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Client/obj/Debug/net7.0/BlazingPizza.Client.sourcelink.json

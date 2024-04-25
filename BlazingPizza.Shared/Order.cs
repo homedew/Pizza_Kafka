@@ -2,26 +2,34 @@
 
 namespace BlazingPizza;
 
-public class Order
-{
-    public int OrderId { get; set; }
+    public class Order
+    {
+        public int OrderId { get; set; }
 
-    // Set by the server during POST
-    public string? UserId { get; set; }
+        public string UserId { get; set; }
 
-    public DateTime CreatedTime { get; set; }
+        public DateTime CreatedTime { get; set; }
 
-    public Address DeliveryAddress { get; set; } = new Address();
+        public Address DeliveryAddress { get; set; } = new Address();
 
-    // Set by server during POST
-    public LatLong? DeliveryLocation { get; set; }
+        public LatLong DeliveryLocation { get; set; }
 
-    public List<Pizza> Pizzas { get; set; } = new List<Pizza>();
+        public List<Pizza> Pizzas { get; set; } = new List<Pizza>();
 
-    public decimal GetTotalPrice() => Pizzas.Sum(p => p.GetTotalPrice());
+        public OrderStatus OrderStatus { get; set; } = OrderStatus.Placed;
 
-    public string GetFormattedTotalPrice() => GetTotalPrice().ToString("0.00");
-}
+        public decimal GetTotalPrice() => Pizzas.Sum(p => p.GetTotalPrice());
+
+        public string GetFormattedTotalPrice() => GetTotalPrice().ToString("0.00");
+    }
+
+    public enum OrderStatus
+    {
+        Placed = 0,
+        Preparing = 1,
+        OutForDelivery = 2,
+        Delivered = 3
+    }
 
 [JsonSourceGenerationOptions(GenerationMode = JsonSourceGenerationMode.Default, PropertyNamingPolicy = JsonKnownNamingPolicy.CamelCase)]
 [JsonSerializable(typeof(Order))]

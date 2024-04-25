@@ -41,3 +41,4 @@
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.ComponentsLibrary/obj/Debug/net7.0/refint/BlazingPizza.ComponentsLibrary.dll
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.ComponentsLibrary/obj/Debug/net7.0/BlazingPizza.ComponentsLibrary.pdb
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.ComponentsLibrary/obj/Debug/net7.0/ref/BlazingPizza.ComponentsLibrary.dll
+/Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.ComponentsLibrary/obj/Debug/net7.0/BlazingPizza.ComponentsLibrary.sourcelink.json

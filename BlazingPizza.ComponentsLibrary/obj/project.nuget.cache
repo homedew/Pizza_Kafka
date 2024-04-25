@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9vFnl7l0ybf2WKKhcAY7q+BB8Jb6hpHK6rucfwMy4OKcn8HirkAFfUu0+IuY6EIjNyv0DeAR1LzegJf/p2/9Fw==",
+  "dgSpecHash": "NPkRYlX18AAI8LROD0CtuR1DnZGkDcI8aTKgZvfY7Xgm3we1XQZnQMATaUIIavPRmyO353YwXpVgXhjhIRMHZQ==",
   "success": true,
   "projectFilePath": "/Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
       "message": "Package 'Microsoft.AspNetCore.Components' 7.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3fx3-85r4-8j3w",
       "libraryId": "Microsoft.AspNetCore.Components",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     }
   ]

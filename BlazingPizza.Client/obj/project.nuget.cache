@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N/tyLzTN1PZFydXZFFoTyBk4feq4Aga859vNLaxfXfQ/qB/ZXXc7n1uOQgqe4DSesaXJLQs5X5+KtearwIxojw==",
+  "dgSpecHash": "UMQ90cVxHhMMFPtIG5jMB0ug++jfn4+XMStEOtFoXqIeFCEwR2WlvrjMApAQPlBytDXzmm476L+3Ee8+silJ5g==",
   "success": true,
   "projectFilePath": "/Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Client/BlazingPizza.Client.csproj",
   "expectedPackageFiles": [
@@ -30,14 +30,13 @@
     "/Users/homedew/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/homedew/.nuget/packages/microsoft.jsinterop/7.0.0/microsoft.jsinterop.7.0.0.nupkg.sha512",
     "/Users/homedew/.nuget/packages/microsoft.jsinterop.webassembly/7.0.0/microsoft.jsinterop.webassembly.7.0.0.nupkg.sha512",
-    "/Users/homedew/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23211.1/microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/homedew/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23211.1/microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "/Users/homedew/.nuget/packages/microsoft.net.illink.tasks/8.0.4/microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
     "/Users/homedew/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.4/microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
     "/Users/homedew/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/homedew/.nuget/packages/system.net.http.json/7.0.0/system.net.http.json.7.0.0.nupkg.sha512",
     "/Users/homedew/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/homedew/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/homedew/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.18/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.18.nupkg.sha512"
+    "/Users/homedew/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.4/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.4.nupkg.sha512"
   ],
   "logs": []
 }

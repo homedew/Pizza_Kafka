@@ -217,3 +217,4 @@
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Server/obj/Debug/net7.0/BlazingPizza.Server.pdb
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Server/obj/Debug/net7.0/BlazingPizza.Server.genruntimeconfig.cache
 /Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Server/obj/Debug/net7.0/ref/BlazingPizza.Server.dll
+/Users/homedew/Stuff/PetProject/Pizzal_Kafka/BlazingPizza.Server/obj/Debug/net7.0/BlazingPizza.Server.sourcelink.json
